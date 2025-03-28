@@ -1,6 +1,6 @@
 {
   "dulces": [
-    { "id": 1, "nombre": "Feasteables 250g", "imagen": "https://res.cloudinary.com/du861jqva/image/upload/v1743121439/images_ummly3.jpg", "precio": 50000 },
+    { "id": 1, "nombre": "Feasteables 250g", "imagen": "https://res.cloudinary.com/dlrzaebs7/image/upload/v1743175637/61rXXviigEL_e91jwa.jpg", "precio": 50000 },
     { "id": 2, "nombre": "Twinkies", "imagen": "https://res.cloudinary.com/du861jqva/image/upload/v1743121439/images_ummly3.jpg", "precio": 10000 },
     { "id": 3, "nombre": "Prime", "imagen": "https://res.cloudinary.com/du861jqva/image/upload/v1743121439/63920e8b3c29ba5b8670a2e4-prime-hydration-drink-ice-pop_s6qohq.jpg", "precio": 25000 },
     { "id": 4, "nombre": "Dr Pepper", "imagen": "https://res.cloudinary.com/du861jqva/image/upload/v1743121439/images_2_cnyjh8.jpg", "precio": 15000 },
